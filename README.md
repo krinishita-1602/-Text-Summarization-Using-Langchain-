@@ -23,11 +23,11 @@ Features -
 5. Contextual LLM summarization
 
 Workflow -
-1 Upload PDF
-2 Extract text from document
-3 Split text into manageable chunks
-4 Generate summaries using LLM
-5 Display summarized output
+1. Upload PDF
+2. Extract text from document
+3. Split text into manageable chunks
+4. Generate summaries using LLM
+5. Display summarized output
 
 Future Improvements
 1. Chat with document
