@@ -22,7 +22,7 @@ Features -
 4. Contextual LLM summarization
 5. Contextual LLM summarization
 
-Workflow
+Workflow -
 1 Upload PDF
 2 Extract text from document
 3 Split text into manageable chunks
